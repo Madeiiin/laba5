@@ -1,0 +1,10 @@
+F:\Лабы\3k\ТА\L5\L5\bin\Debug\L5.exe.config
+F:\Лабы\3k\ТА\L5\L5\bin\Debug\L5.exe
+F:\Лабы\3k\ТА\L5\L5\bin\Debug\L5.pdb
+F:\Лабы\3k\ТА\L5\L5\obj\Debug\L5.csprojAssemblyReference.cache
+F:\Лабы\3k\ТА\L5\L5\obj\Debug\L5.Form1.resources
+F:\Лабы\3k\ТА\L5\L5\obj\Debug\L5.Properties.Resources.resources
+F:\Лабы\3k\ТА\L5\L5\obj\Debug\L5.csproj.GenerateResource.cache
+F:\Лабы\3k\ТА\L5\L5\obj\Debug\L5.csproj.CoreCompileInputs.cache
+F:\Лабы\3k\ТА\L5\L5\obj\Debug\L5.exe
+F:\Лабы\3k\ТА\L5\L5\obj\Debug\L5.pdb
